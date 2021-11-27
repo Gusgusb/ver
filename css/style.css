@@ -322,7 +322,7 @@ h3 {
   position: relative;
   z-index: 10;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
   .fh5co-cover {
     height: 600px;
   }
@@ -394,7 +394,7 @@ h3 {
   bottom: 0;
   background: rgba(0, 0, 0, 0.4);
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
   #fh5co-counter,
   #fh5co-event {
     height: inherit;
@@ -1009,7 +1009,7 @@ form label {
   padding: 7em 0;
   clear: both;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
   #fh5co-testimonial,
   #fh5co-services,
   #fh5co-started,
@@ -1032,7 +1032,7 @@ form label {
   margin: 0 auto;
   position: relative;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
   .couple-wrap {
     width: 100%;
   }
